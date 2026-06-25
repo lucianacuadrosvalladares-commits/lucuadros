@@ -10,4 +10,3 @@
         En la universidad conocí a mi grupo de amigos, <a href="https://mashita787.github.io/GerardoDelgado/">MASHITA</a>, <a href="https://yopi.github.io/">Yopi</a> y a <a href="https://luisgonzalez.github.io/">ICAL</a> y <a href "(https://mastercokas.github.io/MATEO/)">MATEO <3,</a>, MI ENAMORADO
         Mi super tío es el profe <a href="https://pe.linkedin.com/in/ecuadrosv">Ernesto</a>, lo quiero mucho y desde chiquita admiro mucho su trabajo y sus         conocimientos.
     </body>
-</html># lucuadros
